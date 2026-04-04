@@ -15,14 +15,6 @@ Welcome to my GitHub! I am a passionate software engineering student focused on 
 
 ---
 
-### 🔥 What I'm currently working on
-
-I am actively developing projects to strengthen my backend architecture skills:
-* 🛒 **E-commerce & Bot Hybrid:** Building a comprehensive E-commerce Backend (Auth, Cart, Orders, Inventory) using **NestJS & PostgreSQL**. The core highlight is a **Telegram Bot integration via Webhooks**, allowing Admins to receive real-time notifications and manage order statuses directly through chat commands.
-* 🔗 **URL Shortener:** A high-performance URL shortener API showcasing strict data validation (ValidationPipe), persistent storage, and conventional atomic Git commits.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="left">
