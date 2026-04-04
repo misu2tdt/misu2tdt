@@ -35,7 +35,7 @@ Welcome to my GitHub! I am a passionate software engineering student focused on 
   <h3 align="center">Let's Connect!</h3>
   <br>
   <a href="https://github.com/misu2tdt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-TÊN_USER_GITHUB_CỦA_EM-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/GitHub-misu2tdt-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/tien-tran-256169242/" target="_blank">
