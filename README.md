@@ -35,5 +35,5 @@ I am actively developing projects to strengthen my backend architecture skills:
 ### 📫 Let's connect!
 
 I am always open to discussing tech, internship opportunities, or collaborating on interesting projects:
-* ✉️ **Email:** [Địa chỉ Email của em]
-* 💼 **LinkedIn:** [Link LinkedIn của em]
+* ✉️ **Email:** tdtien7a1@gmail.com
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/tien-tran-256169242/]
