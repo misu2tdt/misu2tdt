@@ -1,29 +1,29 @@
-# Hi there 👋, I'm [Tên của em] 
+# Hi there 👋, I'm Tran Duong Tien 
 
 ### 🚀 Aspiring Backend Developer (Intern/Fresher) | Problem Solver
 
-Chào mừng bạn đến với không gian code của mình! Mình là một sinh viên đam mê xây dựng các hệ thống Backend mạnh mẽ, tối ưu và tự động hóa. Mục tiêu hiện tại của mình là tìm kiếm cơ hội Thực tập sinh (Intern) để áp dụng kiến thức vào thực tế và đóng góp giá trị cho dự án thực.
+Welcome to my GitHub! I am a passionate software engineering student focused on building robust, scalable, and automated backend systems. I am currently looking for a Backend Engineering Internship where I can apply my knowledge to real-world challenges, write clean code, and deliver impactful solutions.
 
 ---
 
-### 💻 Tech Stack & Tools (Vũ khí của mình)
+### 💻 Tech Stack & Tools
 
-* **Ngôn ngữ:** TypeScript, JavaScript, SQL
-* **Backend Framework:** NestJS, Node.js (Express)
-* **Database & ORM:** PostgreSQL, TypeORM, Prisma
+* **Languages:** TypeScript, JavaScript, SQL
+* **Backend Frameworks:** NestJS, Node.js (Express)
+* **Databases & ORM:** PostgreSQL, TypeORM
 * **DevOps & Tools:** Docker, Git, Postman, RESTful API Design
 
 ---
 
 ### 🔥 What I'm currently working on
 
-Dự án hiện tại mình đang tập trung phát triển để chứng minh năng lực:
-* 🛒 **E-commerce & Bot Hybrid:** Xây dựng một hệ thống Backend Thương mại điện tử hoàn chỉnh (Auth, Cart, Orders, Inventory) sử dụng **NestJS & PostgreSQL**. Điểm nhấn của dự án là việc tích hợp **Telegram Bot via Webhook**, cho phép Admin nhận thông báo realtime và quản lý trạng thái đơn hàng trực tiếp qua tin nhắn.
-* 🔗 **URL Shortener:** Một hệ thống rút gọn link tối ưu hiệu năng, áp dụng chặt chẽ Validation Pipe và Atomic Commits.
+I am actively developing projects to strengthen my backend architecture skills:
+* 🛒 **E-commerce & Bot Hybrid:** Building a comprehensive E-commerce Backend (Auth, Cart, Orders, Inventory) using **NestJS & PostgreSQL**. The core highlight is a **Telegram Bot integration via Webhooks**, allowing Admins to receive real-time notifications and manage order statuses directly through chat commands.
+* 🔗 **URL Shortener:** A high-performance URL shortener API showcasing strict data validation (ValidationPipe), persistent storage, and conventional atomic Git commits.
 
 ---
 
-### 📈 GitHub Stats (Sự chăm chỉ của mình)
+### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TÊN_USER_GITHUB_CỦA_EM&show_icons=true&theme=radium&hide_border=true" alt="My GitHub Stats" />
@@ -34,6 +34,6 @@ Dự án hiện tại mình đang tập trung phát triển để chứng minh n
 
 ### 📫 Let's connect!
 
-Mình luôn sẵn sàng cho các cơ hội Internship/Fresher hoặc đơn giản là kết nối để trao đổi kiến thức kỹ thuật:
+I am always open to discussing tech, internship opportunities, or collaborating on interesting projects:
 * ✉️ **Email:** [Địa chỉ Email của em]
 * 💼 **LinkedIn:** [Link LinkedIn của em]
