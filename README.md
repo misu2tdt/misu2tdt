@@ -24,8 +24,21 @@ Welcome to my GitHub! I am a passionate software engineering student focused on 
 
 ---
 
-### 📫 Let's connect!
+### 🎓 Education
 
-I am always open to discussing tech, internship opportunities, or collaborating on interesting projects:
-* ✉️ **Email:** tdtien7a1@gmail.com
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/tien-tran-256169242/]
+**Ho Chi Minh City University of Technology (HCMUT)** *Bachelor of Engineering - Computer Science Sep 2022 - May 2026*
+* English: TOEIC 730
+
+---
+
+<p align="center">
+  <h3 align="center">Let's Connect!</h3>
+  <br>
+  <a href="https://github.com/misu2tdt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TÊN_USER_GITHUB_CỦA_EM-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tien-tran-256169242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
