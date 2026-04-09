@@ -26,7 +26,7 @@ Welcome to my GitHub! I am a passionate software engineering student focused on 
 
 ### 🎓 Education
 
-**Ho Chi Minh City University of Technology (HCMUT)** *Bachelor of Engineering - Computer Science Sep 2022 - May 2026*
+**Viet Nam National University-Ho Chi Minh City University of Technology (VNU-HCMUT)** *Bachelor of Engineering - Computer Science Sep 2022 - May 2026*
 * English: TOEIC 730
 
 ---
